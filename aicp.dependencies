@@ -13,10 +13,5 @@
         "repository":   "LineageOS/android_packages_resources_devicesettings",
         "target_path":  "packages/resources/devicesettings",
         "branch":       "cm-14.1"
-    },
-    {
-        "repository":  "mordiford/packages_apps_SnapdragonCamera",
-        "target_path": "packages/apps/SnapdragonCamera",
-        "branch":      "n7.1"
     }
 ]
