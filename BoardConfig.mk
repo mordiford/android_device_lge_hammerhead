@@ -129,7 +129,7 @@ endif
 
 # Hardware
 BOARD_USES_CYANOGEN_HARDWARE := true
-BOARD_HARDWARE_CLASS := hardware/cyanogen/cmhw
+# BOARD_HARDWARE_CLASS := hardware/cyanogen/cmhw
 
 # Recovery
 RECOVERY_FSTAB_VERSION := 2
