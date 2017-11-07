@@ -140,10 +140,6 @@ PRODUCT_PACKAGES += \
     libqdutils \
     libqdMetaData
 
-# Memtrack HAL interfaces
-PRODUCT_PACKAGES += \
-    android.hardware.memtrack@1.0-impl
-
 # Display HAL interfaces
 PRODUCT_PACKAGES += \
     android.hardware.graphics.allocator@2.0-impl \
