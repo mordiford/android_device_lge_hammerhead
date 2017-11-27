@@ -1,0 +1,12 @@
+[
+    {
+        "repository":   "lamrom/android_kernel_lge_hammerhead",
+        "target_path":  "kernel/lge/hammerhead",
+        "branch":       "los-15.0"
+    },
+    {
+        "repository":   "lamrom/proprietary_vendor_lge",
+        "target_path":  "vendor/lge",
+        "branch":       "los-15.0"
+    }
+]
