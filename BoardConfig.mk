@@ -123,8 +123,4 @@ TARGET_NEEDS_PLATFORM_TEXT_RELOCATIONS:= true
 
 TARGET_USES_LEGACY_ADB_INTERFACE := true
 
-# Hardware
-BOARD_USES_CYANOGEN_HARDWARE := true
-BOARD_HARDWARE_CLASS := hardware/cyanogen/cmhw
-
 -include vendor/lge/hammerhead/BoardConfigVendor.mk
